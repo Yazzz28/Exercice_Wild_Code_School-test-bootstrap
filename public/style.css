@@ -1,0 +1,17 @@
+nav {
+    background-color: rgb(25, 67, 183);
+}
+
+.nav-link{
+    color: white;
+}
+
+footer {
+    background-color: rgb(25, 67, 183);
+    color: white;
+}
+
+.gris {
+    background-color: grey;
+    padding: 50px;
+}
